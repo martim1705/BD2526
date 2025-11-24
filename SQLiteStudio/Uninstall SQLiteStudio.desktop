@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=0.9.4
+Name=Uninstall SQLiteStudio
+Comment=Uninstall
+Icon=
+Exec=/home/martim_leme/Documentos/Faculdade/ano2/SQLiteStudio/uninstall
+Terminal=false
+Path=/home/martim_leme/Documentos/Faculdade/ano2/SQLiteStudio
